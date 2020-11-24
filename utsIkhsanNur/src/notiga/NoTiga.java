@@ -49,7 +49,7 @@ public class NoTiga extends JFrame implements ActionListener{
 //        textArea.setRows(8);
 //        textArea.setBorder(BorderFactory.createLineBorder(Color.RED));
 //        textArea.setEditable(false);
-////        contentPane.add(textArea);
+//        contentPane.add(textArea);
         inputLine = new JTextField();
         inputLine.setColumns(30);
         contentPane.add(inputLine);
